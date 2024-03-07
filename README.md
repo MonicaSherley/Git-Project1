@@ -1,4 +1,9 @@
-Git is a Version Control Tool and GitHub is a service that hosts Git projects. 
+Git is a Version Control Tool and GitHub is a service that hosts Git projects. It's very useful to transfer number of project from local repository to remote repository(Gitflow)
+
+* Working Directory 
+* Staging Area
+* Local Repository
+* Remote Repository
 
 These are common Git commands used in various situations
 
